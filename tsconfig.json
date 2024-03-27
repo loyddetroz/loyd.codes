@@ -9,5 +9,5 @@
     "allowJs": true,
   },
   "include": ["src/**/*.ts", "test/**/*.ts", "src/**/*.js"],
-  "exclude": ["node_modules", "build", "public/scroll.js"]
+  "exclude": ["node_modules", "build", "src/scroll.ts"]
 }
